@@ -1,6 +1,6 @@
 
 
-# This is Demo code for a blog article published here: https://medium.com/@shvechkovs/65577a32f1b8
+# This is Demo code for a blog article published [here](https://medium.com/@shvechkovs/65577a32f1b8)
 
 
 A React application for imaginable online store featuring category selection, order placement, and an AI assistant chat interface powered by OpenAI. The app includes interactive navigation with a wand cursor for highlighting and clicking elements, built with modular components and styled using Tailwind CSS.
